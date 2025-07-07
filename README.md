@@ -23,7 +23,7 @@ To test it live with MetaMask:
 python3 -m http.server 8000
 
 
-🛠 Project Structure
+#🛠 Project Structure#
 bash
 Copy
 Edit
